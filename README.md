@@ -1,6 +1,6 @@
-# Project Title
+# Figma to React
 
-A brief description of what this project does and who it's for.
+
 
 ## Installation
 
