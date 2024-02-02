@@ -1,4 +1,17 @@
-# React + Vite
+# Project Title
+
+A brief description of what this project does and who it's for.
+
+## Installation
+
+To set up this project locally, run the following commands:
+
+
+npm install
+npm run dev
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
