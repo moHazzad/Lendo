@@ -8,6 +8,8 @@ To set up this project locally, run the following commands:
 
 
 npm install
+
+## Run
 npm run dev
 
 
